@@ -1,0 +1,5 @@
+print('Jay Hwasung Jung')
+print('I am an international studnet whose nationality is South Korea')
+print('I will be majoring Computer Science at UVM')
+print('I have learned C programming, but I mostly forget it')
+print('I like all kinds of sports, particularly soccer')

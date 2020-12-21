@@ -1,0 +1,3 @@
+The Exam high score is : 100
+The Exam low score is  : 72
+The Exam average is    : 90.73

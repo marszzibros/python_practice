@@ -1,0 +1,28 @@
+Hello, Haha, You
+Below is your exercise table from 2000/11/11 to 2020/11/12
+
+date                     exercise name                      part           sets      reps      weights             
+2020-11-12               Incline Bench Press                Chest          2         5         125.29999999999997  
+                         Pull-up                            Back           13        1         0.0                 
+2020-11-11               Incline Bench Press                Chest          18        3         122.99999999999997  
+                         Dumbbell Row                       Back           6         4         453.0               
+2020-11-10               Squats                             Legs           13        13        120.69999999999997  
+                         Pull-up                            Back           17        5         0.0                 
+2020-11-09               Dumbbell Row                       Back           12        2         448.4               
+                         Bench Press                        Chest          15        2         118.39999999999998  
+2020-11-08               Leg Extension                      Legs           1         4         446.1               
+                         Pull-up                            Back           14        1         0.0                 
+2020-11-07               Leg Extension                      Legs           13        5         443.8               
+                         DeadLift                           Back           17        4         113.79999999999998  
+2020-11-06               Leg Extension                      Legs           2         2         111.49999999999999  
+                         Leg Press                          Legs           5         2         441.5               
+2020-11-05               Pull-up                            Back           4         2         0.0                 
+                         Leg Extension                      Legs           18        18        109.19999999999999  
+2020-11-04               Leg Press                          Legs           3         3         106.89999999999999  
+                         Leg Extension                      Legs           15        1         436.9               
+2020-11-03               DeadLift                           Back           8         4         104.6               
+                         Incline Bench Press                Chest          12        5         434.6               
+2020-11-02               Dumbbell Row                       Back           19        3         102.3               
+                         Dumbbell Row                       Back           9         3         432.3               
+2020-11-01               Dumbbell Row                       Back           15        4         100.0               
+                         Push-up                            Chest          18        2         0.0                 

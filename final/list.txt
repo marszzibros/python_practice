@@ -1,0 +1,9 @@
+name                     userID              Email address                 Birthday            
+Woo Ram, Park            djm07187            djm07187@naver.com            2000-09-28          
+b, e                     ebokelbe            ebokelbe@uvm.edu              2020-12-06          
+Lim, Jaeyoon             halabala            halabala0910@gmail.com        2000-09-10          
+WONSEO, JEONG            hpballoon           wonseo0830@naver.com          2000-08-30          
+Jung, Moksung            hwasungin           hwasungishungry@gmail.com     2000-11-12          
+You, Haha                jhs9104             jjung2@uvm.edu                2000-11-30          
+gimoo, kim               kimgimoo            kimgimoo@naver.com            2000-10-11          
+Min, Vita                reallhoney          realhoney@hotmail.com         1974-08-04          
