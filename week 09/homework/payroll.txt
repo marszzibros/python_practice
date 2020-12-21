@@ -1,0 +1,6 @@
+Singh	40.00	15.75	630.00	
+Mustafa	30.00	16.10	483.00	
+J	10.20	15.25	155.55	
+
+Total Payroll = $1268.55
+Average Paycheck = $422.85
